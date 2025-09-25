@@ -14,15 +14,5 @@ This approach is expected to improve learning outcomes through the **Collaborati
 ---
 
 ## 📂 Project Structure
-├── data/
+├── data
 │ ├── students.xlsx # Raw student data (questionnaire + scores)
-│ └── clustered_results.csv # Clustering output
-├── src/
-│ ├── main.py # Main script to run clustering
-│ ├── preprocessing.py # Data preprocessing script
-│ └── utils.py # Utility functions
-├── results/
-│ ├── cluster_plot.png # Visualization of clustering results
-│ └── report.xlsx # Final report of group formation
-├── requirements.txt # List of dependencies
-└── README.md # Documentation
