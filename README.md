@@ -14,5 +14,5 @@ This approach is expected to improve learning outcomes through the **Collaborati
 ---
 
 ## 📂 Project Structure
-├── data
-│ ├── students.xlsx # Raw student data (questionnaire + scores)
+|- data
+| |- students.csv #Raw Student Data (questionnaire + scores)
